@@ -5,7 +5,7 @@ import {
   EHtmlWhitespaceSensitivity,
   EQuoteProps,
   ETrailingComma
-} from "./types/enums";
+} from "./types/prettier.types";
 
 /**
  * Prettier Defaults

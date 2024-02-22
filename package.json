@@ -1,25 +1,28 @@
 {
-  "name": "prettierrc",
+  "name": "ANKHlint",
   "version": "1.0.0",
-  "description": "Prettier default configuration for all versions, generate prettierrc. files",
+  "description": "Prettier, ESLint, Rome, quick-lint-js, etc.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/artiphishle/prettierrc.git"
+    "url": "git+https://github.com/artiphishle/ankhlint.git"
   },
   "keywords": [
+    "ankhorage",
+    "ankh",
+    "lint",
+    "eslint",
+    "rome",
     "prettier",
-    "prettierrc",
-    "generate",
     "config"
   ],
   "author": "artiphishle",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/artiphishle/prettierrc/issues"
+    "url": "https://github.com/artiphishle/ankhlint/issues"
   },
-  "homepage": "https://github.com/artiphishle/prettierrc#readme"
+  "homepage": "https://github.com/artiphishle/ankhlint#readme"
 }

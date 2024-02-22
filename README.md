@@ -1,10 +1,21 @@
-# prettierrc
+# ankhlint
 
-## Ready
+## Quickstart
 
-- Prettier default config for all versions
+```bash
+npx ankhlint
+```
 
-## Wait for it
+## Tools
 
-- Generation of `.prettierrc` file
+### ESLint
 
+- Content to follow.
+
+### Prettier
+
+- Content to follow.
+
+### quick-lint-js
+
+- Content to follow.
