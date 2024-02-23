@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/artiphishle/ankhlint.git"
+    "url": "git+https://github.com/artiphishle/ankh-lint.git"
   },
   "keywords": [
     "ankhorage",
@@ -22,7 +22,10 @@
   "author": "artiphishle",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/artiphishle/ankhlint/issues"
+    "url": "https://github.com/artiphishle/ankh-lint/issues"
   },
-  "homepage": "https://github.com/artiphishle/ankhlint#readme"
+  "homepage": "https://github.com/artiphishle/ankh-lint#readme",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
 }
