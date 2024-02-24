@@ -1,5 +1,5 @@
 {
-  "name": "ANKHlint",
+  "name": "ankh-lint",
   "version": "1.0.0",
   "description": "Prettier, ESLint, Rome, quick-lint-js, etc.",
   "main": "index.js",

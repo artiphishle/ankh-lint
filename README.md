@@ -1,21 +1,19 @@
 # ankhlint
 
+Generate and/or install a eslint configuration
+
 ## Quickstart
 
 ```bash
-npx ankhlint
+npx ankh-lint
 ```
 
-## Tools
+## Options
 
-### ESLint
+Soon there will be options.
 
-- Content to follow.
+## Plugins
 
 ### Prettier
 
-- Content to follow.
-
-### quick-lint-js
-
-- Content to follow.
+Soon there will be an option that also generates and/or installs Prettier settings simultaneously
