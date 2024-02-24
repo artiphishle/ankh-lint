@@ -3,7 +3,6 @@
     "ankh-lint": "index.js"
   },
   "name": "ankh-lint",
-  "version": "1.0.1",
   "description": "Prettier, ESLint, Rome, quick-lint-js, etc.",
   "main": "index.js",
   "scripts": {
@@ -30,5 +29,6 @@
   "homepage": "https://github.com/artiphishle/ankh-lint#readme",
   "devDependencies": {
     "typescript": "^5.3.3"
-  }
+  },
+  "version": "1.0.2"
 }
